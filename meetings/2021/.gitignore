@@ -1,0 +1,4 @@
+# Ignore generated files in this directory.
+*.html
+*.pdf
+*.txt
